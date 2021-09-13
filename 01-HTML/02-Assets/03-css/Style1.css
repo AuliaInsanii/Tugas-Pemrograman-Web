@@ -1,0 +1,35 @@
+.card {
+    width: 400px;
+    border: none;
+    transition: all 500ms cubic-bezier(0.19, 1, 0.22, 1);
+    border-radius: 14px 
+}
+
+.area1 {
+    background-color: #d3a3a3bb;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    padding-top: 83px
+}
+
+.image {
+    top: -62px;
+    position: relative
+}
+
+.area2 {
+    background-color: #fff;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px
+}
+
+.name {
+    font-size: 25px;
+    font-weight: 650
+}
+
+.information {
+    color: #9e7777bb;
+    font-weight: 500;
+    font-size: 16px
+}
